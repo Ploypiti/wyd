@@ -33,16 +33,19 @@ a {
 .icon_p {
   color: var(--pri);
   font-size: 1.8em;
+  transition: 0.4s;
 }
 
-.icon_s {
-  color: var(--sec)
+.icon_p:hover {
+  color: var(--sec);
+  cursor: pointer;
 }
 
 /*Custom position*/
 .floattop {
   padding: 10px;
   text-decoration: none;
+  font-family: 'raleway semibold';
 }
 
 .centered {
@@ -56,6 +59,7 @@ a {
 .hl {
   border-left: solid 8px var(--pri);
   padding-left: 20px;
+  cursor: pointer;
 }
 
 /*ToOLTiP*/
@@ -97,4 +101,12 @@ a {
 
 .tooltip:hover .tooltiptext {
     visibility: visible;
+}
+
+.add {
+    position:fixed;
+    bottom:0;
+    right:0;
+    padding: 20px;
+    font-size: 3em;
 }
