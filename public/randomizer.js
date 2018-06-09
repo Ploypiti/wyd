@@ -15,7 +15,7 @@ var text_c = [
   'Write a song about Danial Radcliff'
 ];
 
-function getCard() {
+function getcard() {
   var random = Math.floor(Math.random()*(text_c.length));
   document.getElementById('hl').style.display = 'none';
   document.getElementById('card').style.display = 'block';
