@@ -1,6 +1,8 @@
 ![logo](https://image.ibb.co/jGASXo/logo.png)
 
-bcuz your friends relies more on a *decent* JS than spinning a bottle.
+[![Build Status](https://travis-ci.com/Ploypiti/wyd.svg?token=TAxWz9gRLpJ5xVFSqxwY&branch=master)](https://travis-ci.com/Ploypiti/wyd)
+
+**Random challenge generator** ('cuz your friends relies more on a *decent* JS than spinning a bottle.)
 
 ## Adding challenge
 Go to [randomizer.js](randomizer.js) and add your challenge to *text_c* array, no tide pods and stupid challenges plz.
@@ -14,4 +16,8 @@ var text_c = [
 ];
 ```
 
+## Local run
+Run `npm start` Port: 8080
+
 ![gif](https://static.tumblr.com/58d9c77e9619492c680de2a9772bcb51/txjgy5i/2HNoujzqj/tumblr_static_tumblr_static__640.gif)
+
