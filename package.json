@@ -4,14 +4,13 @@
   "description": "![logo](https://image.ibb.co/jGASXo/logo.png)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ploypiti/wyd.git"
   },
-  "author": "Ploypiti Piyaprapan <ploypitisweet@gmail.com>",
+  "author": "Ploypiti Piyaprapan <pploypiti@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ploypiti/wyd/issues"
