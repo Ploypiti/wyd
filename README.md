@@ -1,6 +1,6 @@
 ![logo](https://image.ibb.co/jGASXo/logo.png)
 
-[![Build Status](https://travis-ci.com/Ploypiti/wyd.svg?token=TAxWz9gRLpJ5xVFSqxwY&branch=master)](https://travis-ci.com/Ploypiti/wyd)
+[![Build Status](https://travis-ci.com/Ploypiti/wyd.svg?token=TAxWz9gRLpJ5xVFSqxwY&branch=master)](https://travis-ci.com/Ploypiti/wyd) << not neccesary but it just look cool.
 
 **Random challenge generator** ('cuz your friends relies more on a *decent* JS than spinning a bottle.)
 
@@ -17,7 +17,7 @@ var text_c = [
 ```
 
 ## Local run
-Run `npm start` Port: 8080
+Run `npm start` Port: 8000
 
 ![gif](https://static.tumblr.com/58d9c77e9619492c680de2a9772bcb51/txjgy5i/2HNoujzqj/tumblr_static_tumblr_static__640.gif)
 
