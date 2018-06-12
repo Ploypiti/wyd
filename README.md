@@ -5,7 +5,7 @@
 **Random challenge generator** ('cuz your friends relies more on a *decent* JS than spinning a bottle.)
 
 ## Adding challenge
-Go to [randomizer.js](randomizer.js) and add your challenge to *text_c* array, no tide pods and stupid challenges plz.
+Go to [randomizer.js](https://github.com/Ploypiti/wyd/blob/master/public/randomizer.js) and add your challenge to *text_c* array, no tide pods and stupid challenges plz.
 
 ```
 var text_c = [
